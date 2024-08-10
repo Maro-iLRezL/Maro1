@@ -46,7 +46,7 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑨𝑹𝑻𝑯𝑼𝑹`;
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑴𝑨𝑹𝑶`;
 global.gt = '𝑴𝑨𝑹𝑶';
 global.mysticbot = '𝑴𝑨𝑹𝑶';
 global.md = 'https://whatsapp.com/channel/0029Vacc9DXEAKWIWX8nQu1T';
